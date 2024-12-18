@@ -1,2 +1,2 @@
 # python_beginner
-## __배병술
+## _배병술_
