@@ -1,4 +1,4 @@
-## 1장 파이선 입문을 위한 준비 <br />
+### 1장 파이선 입문을 위한 준비 <br />
 ▶ 파이선 설치와 에디터   <br />
 . Python : https://www.python.org/downloads/ <br />
 . PyCharm, VSCode <br />
@@ -15,7 +15,7 @@
 . snake_case 방식으로 변수 이름( 권장 ) vs CapWord방식 (class는 CapWord) <br />
 
 ▶ 주석처리 <br />
-* # : 한개의 라인 주석 <br />
+* <#> : 한개의 라인 주석 <br />
 * """ or ''' 멀티라인 주석 <br />
 ''' <br />
 multiline comment <br />
@@ -32,7 +32,7 @@ second line comment <br />
 
 
 
-## 2장 데이터 타입과 타입변환 <br />
+### 2장 데이터 타입과 타입변환 <br />
 ▶ 데이터 타입 <br />
 ♪ 숫자형 ( int, float, complex ) <br />
 ♪ 글자형 ( 문자열, str ) <br />
