@@ -34,12 +34,12 @@ second line comment <br />
 
 ### 2장 데이터 타입과 타입변환 <br />
 ▶ 데이터 타입 <br />
-♪ 숫자형 ( int, float, complex ) <br />
-♪ 글자형 ( 문자열, str ) <br />
-♪ list <br />
-♪ tuple <br />
-♪ set <br />
-♪ dict ( dictionary ) <br />
+  - 숫자형 ( int, float, complex ) <br />
+  - 글자형 ( 문자열, str ) <br />
+  - list <br />
+  - tuple <br />
+  - set <br />
+  - dict ( dictionary ) <br />
 
 
 
