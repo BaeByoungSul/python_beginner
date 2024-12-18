@@ -31,6 +31,10 @@ Code 를 보이려면 이렇게 합니다. <!-- 4칸 띄우기 또는 Tab-->
 
 Like this..
 
+# Image
+
+![대체텍스트](./펭귄.jpg)
+
 라인 긋기 ( 3 dash)
 ---
 - This is a bullet point
