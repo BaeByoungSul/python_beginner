@@ -43,11 +43,11 @@ second line comment <br />
 
 #### 코드 블럭
 # Code Blocks
-'''python
+```python
 print (type(3))
 print (type(3.3333333))
 print (type("fdsdsfa"))
-'''  
+```  
  
 
 https://www.youtube.com/watch?v=6J0lqMPi8AI
