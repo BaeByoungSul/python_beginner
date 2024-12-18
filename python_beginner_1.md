@@ -1,4 +1,4 @@
-# 1장 파이선 입문을 위한 준비 <br />
+## 1장 파이선 입문을 위한 준비 <br />
 ▶ 파이선 설치와 에디터   <br />
 . Python : https://www.python.org/downloads/ <br />
 . PyCharm, VSCode <br />
@@ -32,7 +32,7 @@ second line comment <br />
 
 
 
-# 2장 데이터 타입과 타입변환 <br />
+## 2장 데이터 타입과 타입변환 <br />
 ▶ 데이터 타입 <br />
 ♪ 숫자형 ( int, float, complex ) <br />
 ♪ 글자형 ( 문자열, str ) <br />
