@@ -1,8 +1,8 @@
 # python_beginner
-# Emphasis
-This is *Italic*.
-This is **Bold**
-This one is ***Bold and Italic***.
+# Emphasis  
+This is *Italic*.  
+This is **Bold**  
+This one is ***Bold and Italic***.  
 
 
 라인 긋기 ( 3 dash)
