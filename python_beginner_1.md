@@ -41,5 +41,12 @@ second line comment <br />
   - set   : 값의 중복이 없다.   
   - dict ( dictionary ) : ( key, value )  
 
+#### 코드 블럭
+print (type(3))
+print (type(33333333))
+print (type(3.3333333))
+
+print (type("fdsdsfa"))
+ 
 
 https://www.youtube.com/watch?v=6J0lqMPi8AI
