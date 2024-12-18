@@ -1,0 +1,8 @@
+text = 'hello world'
+print( len(text) )
+print( text.find('A'))
+print( text.count('A'))
+
+##
+print('-' * 20)
+text = "Hello Spencer"

@@ -1,0 +1,1 @@
+number = int (input('0을 입력할 때까지 '))
