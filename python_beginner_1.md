@@ -15,7 +15,7 @@
 . snake_case 방식으로 변수 이름( 권장 ) vs CapWord방식 (class는 CapWord) <br />
 
 ▶ 주석처리 <br />
-* <#> : 한개의 라인 주석 <br />
+* #: 한개의 라인 주석 <br />
 * """ or ''' 멀티라인 주석 <br />
 ''' <br />
 multiline comment <br />
