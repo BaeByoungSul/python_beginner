@@ -22,6 +22,14 @@ This one is ***Bold and Italic***.
   - 2단계  
     - 3단계  
       
+# Code Blocks
+
+Code 를 보이려면 이렇게 합니다. <!-- 4칸 띄우기 또는 Tab-->
+
+    import pandas as pd 
+    pd.killTH()
+
+Like this..
 
 라인 긋기 ( 3 dash)
 ---
