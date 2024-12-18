@@ -16,7 +16,7 @@ date1 = now.strftime("%Y-%m-%d %p %I:%M:%S %a %b %A %B ")
 print( date1 )
 ```
 ----
-###[Link to kolon iken ](https://iken.kolon.com)
+### [Link to kolon iken ](https://iken.kolon.com)
 
 ---
 ## ![Image Link](https://github.com/BaeByoungSul/python_beginner/blob/main/20241203_071423.jpg)
