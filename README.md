@@ -51,7 +51,7 @@ print( date1 )
 ### [Link to kolon iken ](https://iken.kolon.com)
 
 ---
-## ![Image Link](https://github.com/BaeByoungSul/python_beginner/blob/main/20241203_071423.jpg)
+## ![Image Link](https://github.com/BaeByoungSul/python_beginner/blob/main/apartment_view.jpg)
 ---
 
 
