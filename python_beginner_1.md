@@ -42,11 +42,12 @@ second line comment <br />
   - dict ( dictionary ) : ( key, value )  
 
 #### 코드 블럭
+# Code Blocks
+'''python
 print (type(3))
-print (type(33333333))
 print (type(3.3333333))
-
 print (type("fdsdsfa"))
+'''  
  
 
 https://www.youtube.com/watch?v=6J0lqMPi8AI
