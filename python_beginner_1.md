@@ -34,13 +34,12 @@ second line comment <br />
 
 ### 2장 데이터 타입과 타입변환 <br />
 ▶ 데이터 타입 <br />
-  - 숫자형 ( int, float, complex ) <br />
-  - 글자형 ( 문자열, str ) <br />
-  - list <br />
-  - tuple <br />
-  - set <br />
-  - dict ( dictionary ) <br />
-
+  - 숫자형 ( int, float, complex )    
+  - 글자형 ( 문자열, str ) 
+  - list   
+  - tuple : list와 구조가 같고 수정이 불가  
+  - set   : 값의 중복이 없다.   
+  - dict ( dictionary ) : ( key, value )  
 
 
 https://www.youtube.com/watch?v=6J0lqMPi8AI
