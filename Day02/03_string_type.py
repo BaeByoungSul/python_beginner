@@ -18,17 +18,18 @@ birth_month = str(birth_month)
 print( birth_year+birth_month)
 
 # index, value
-greeting_message = "Healo Python! Hello!"
+greeting_message = "Hello Python! Hello Icbank!"
 print(greeting_message[0])
 print(greeting_message[1])
 print(greeting_message[-1])
 print(greeting_message[-3])
 
 # slice, slicing
+print('slice')
 print(greeting_message[0:1])
 print(greeting_message[0:2])
 print(greeting_message[2:5])
-print(greeting_message[2:])
+print(greeting_message[14:27])
 
 # Step을 줄 수도 있다.[start, end, step]
 text ="1234567890"
