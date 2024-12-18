@@ -1,4 +1,4 @@
-1장 파이선 입문을 위한 준비
+1장 파이선 입문을 위한 준비  
 ▶ 파이선 설치와 에디터
 . Python : https://www.python.org/downloads/
 . PyCharm, VSCode
