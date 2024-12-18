@@ -12,6 +12,16 @@ This one is ***Bold and Italic***.
 >> Lev 2, Continue.  
 >>> Lev 3  
 
+# Ordered Lists and Unordered Lists
+
+1. 내 이름은 박병  
+2. 내 이름은 TH  
+3. 내 이름은 TS  
+
+- 기호로 -, *, + 를 사용할 수 있다.  
+  - 2단계  
+    - 3단계  
+      
 
 라인 긋기 ( 3 dash)
 ---
