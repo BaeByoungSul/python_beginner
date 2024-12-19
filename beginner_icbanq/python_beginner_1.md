@@ -132,9 +132,12 @@ print('{!r}'.format(fp2.readline()))
 ```
 date1 = now.strftime("%Y-%m-%d %H:%M:%S")
 print( date1 )
+result2 = [i*2 for i in range(1,10)]
 ```
 
 ###### 2024-12-19 15:19:35
+
+###### [2, 4, 6, 8, 10, 12, 14, 16, 18]
 
 https://www.youtube.com/watch?v=6J0lqMPi8AI
 
