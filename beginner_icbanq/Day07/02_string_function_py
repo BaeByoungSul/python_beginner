@@ -1,0 +1,9 @@
+text = 'hello world'
+print( len(text) )
+print( text.find('wo'))
+print( text.count('A'))
+
+##
+print('-' * 20)
+text = "Hello Spencer"
+print(text.split('e'))
