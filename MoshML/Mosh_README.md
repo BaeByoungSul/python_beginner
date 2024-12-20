@@ -17,19 +17,19 @@
 
 ## Tool
 
-> > - 아나콘다(Anaconda)란?  
-> >   아나콘다는 머신러닝이나 데이터 분석 등에 사용하는 여러가지 패키지가 기본적으로 포함되어있는 파이썬 배포판입니다.
+- 아나콘다(Anaconda)란?  
+  아나콘다는 머신러닝이나 데이터 분석 등에 사용하는 여러가지 패키지가 기본적으로 포함되어있는 파이썬 배포판입니다.
 
-> > - 아나콘다 설치 : Python, Jupyter Notebook 포함되어 있음
-> >   https://www.anaconda.com/download
+- 아나콘다 설치 : Python, Jupyter Notebook 포함되어 있음
+  https://www.anaconda.com/download
 
-> > - Jupyter Notebook  
-> >   Jupyter에서 제작한 웹 기반[1] 인터랙티브 컴퓨팅 플랫폼이다. Jupyter의 이름은 주피터가 지원하는 세 개의 핵심 언어인 Julia, Python 그리고 R에서 유래했으며, 목성의 위성의 발견이 기록된 갈릴레오 갈릴레이의 공책에 대한 존경의 의미도 갖는다고 한다
+- Jupyter Notebook  
+  Jupyter에서 제작한 웹 기반[1] 인터랙티브 컴퓨팅 플랫폼이다. Jupyter의 이름은 주피터가 지원하는 세 개의 핵심 언어인 Julia, Python 그리고 R에서 유래했으며, 목성의 위성의 발견이 기록된 갈릴레오 갈릴레이의 공책에 대한 존경의 의미도 갖는다고 한다
 
 ## Hello world
 
-> > - Jupyter Notebook 실행: 명령창에서 jupyter notebook
-> > - Create notebook : Files 탭 >> New >> Python 3
+- Jupyter Notebook 실행: 명령창에서 jupyter notebook
+- Create notebook : Files 탭 >> New >> Python 3
 
 ```
 print('Hello world')
@@ -67,9 +67,11 @@ predictions = model.predict([[21, 1], [22,0] ])
 predictions
 ```
 
-> > Caculate accuracy score(music)
-> > Persisting Models(music_2)
-> > Visualizing a Decision Tree (visualiz_decision)
+## Caculate accuracy score(music)
+
+## Persisting Models(music_2)
+
+## Visualizing a Decision Tree (visualiz_decision)
 
 - jupyter notebook실행 후 vs code에서 확인
 - Install Graphviz (dot) Stephanvs
@@ -95,6 +97,8 @@ tree.export_graphviz(model, out_file='music-recommender.dot',
 
 
 ```
+
+## Coding sample
 
 ```
 import pandas as pd
@@ -135,75 +139,3 @@ df['키'].corr(df['체중']) # 상관계수
 - comment line : ctrl + slash ( / )
 
 https://www.youtube.com/watch?v=7eh4d6sabA0
-
-# Emphasis
-
-This is _Italic_.  
-This is **Bold**  
-This one is **_Bold and Italic_**.
-
-# Blockquotes.
-
-> Lev 1.  
-> Lev 1, Continue.
->
-> > Lev 2.  
-> > Lev 2, Continue.
-> >
-> > > Lev 3
-
-# Ordered Lists and Unordered Lists
-
-1. 내 이름은 박병
-2. 내 이름은 TH
-3. 내 이름은 TS
-
-- 기호로 -, \*, + 를 사용할 수 있다.
-  - 2단계
-    - 3단계
-
-# Code Blocks
-
-Code 를 보이려면 이렇게 합니다. <!-- 4칸 띄우기 또는 Tab-->
-
-    import pandas as pd
-    pd.killTH()
-
-Like this..
-
-# Image
-
-![대체텍스트](./펭귄.jpg)
-
-## 라인 긋기 ( 3 dash)
-
-- This is a bullet point
-
-* this is also a bullet point
-
----
-
-This code is test python code
-
-```python
-date1 = now.strftime("%Y-%m-%d %H:%M:%S")
-print( date1 )
-date1 = now.strftime("%Y-%m-%d %p %I:%M:%S %a %b %A %B ")
-print( date1 )
-```
-
----
-
-### [Link to kolon iken ](https://iken.kolon.com)
-
----
-
-## ![Image Link](https://github.com/BaeByoungSul/python_beginner/blob/main/apartment_view.jpg)
-
----
-
-## python_beginner
-
-### python_beginner
-
-#### python_beginner
